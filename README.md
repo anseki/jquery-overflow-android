@@ -44,4 +44,5 @@ jqFrame.data('overflowAndroid').scrollLeft(100);
 **See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
 
 ## Release History
- * 2014-08-30     v0.1.0      Initial release.
+ * 2014-08-31			v0.1.1			Update package.json for OverflowAndroid v0.1.1.
+ * 2014-08-30			v0.1.0			Initial release.
