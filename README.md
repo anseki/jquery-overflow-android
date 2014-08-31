@@ -5,8 +5,8 @@ The polyfill for `overflow:scroll` / `overflow:auto` and `element.scrollLeft` / 
 
 Android browser has problems as below:
 
-- `overflow:scroll` and `overflow:auto` don't work on Android 2.x. The elements don't accept swipe/flick/drag operation.
-- `element.scrollLeft` and `element.scrollTop` don't work on Android 4.0.x. The elements can't scroll via JavaScript. Strange to say, the element that is set `overflow:hidden` can scroll. But of course that element doesn't accept swipe/flick/drag operation.
+- `overflow:scroll` and `overflow:auto` don't work on Android 2.x. The elements don't accept scroll operations (swipe, flick, drag, etc.).
+- `element.scrollLeft` and `element.scrollTop` don't work on Android 4.0.x. The elements can't scroll via JavaScript. Strange to say, the element that is set `overflow:hidden` can scroll. But of course that element doesn't accept scroll operations.
 
 OverflowAndroid solves above problems both.
 
@@ -31,7 +31,7 @@ OverflowAndroid solves above problems both.
 
 ```js
 var element = $('.view').overflowAndroid();
-// Now, the element accepts swipe/flick/drag operation.
+// Now, the element accepts scroll operations (swipe, flick, drag, etc.).
 
 // And it can scroll via scrollLeft/scrollTop. Therefore animate() method works.
 element.animate({scrollLeft: 360, scrollTop: 150}, 1200);
