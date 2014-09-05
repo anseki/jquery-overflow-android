@@ -13,11 +13,10 @@ OverflowAndroid solves above problems both.
 **See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
 
 ## Usage
-[OverflowAndroid](http://anseki.github.io/overflow-android) and [Hammer.js](http://hammerjs.github.io/) are required.
+[Hammer.js](http://hammerjs.github.io/) is required.
 
 ```html
 <script src="hammer.min.js"></script>
-<script src="overflow-android.min.js"></script>
 <script src="jquery-2.1.1.min.js"></script>
 <script src="jquery.overflowandroid.min.js"></script>
 ```
@@ -41,7 +40,9 @@ element.data('overflowAndroid').scrollLeft(100);
 ```
 **See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
 
-## Release History
+## History
+ * 2014-09-05			v0.2.1			Include OverflowAndroid v0.2.1.
+ * 2014-09-05			v0.2.0			Update package.json for OverflowAndroid v0.2.0.
  * 2014-09-05			v0.1.2			Update package.json for OverflowAndroid v0.1.2.
  * 2014-08-31			v0.1.1			Update package.json for OverflowAndroid v0.1.1.
  * 2014-08-30			v0.1.0			Initial release.

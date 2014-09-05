@@ -2,6 +2,9 @@
  * jQuery.overflowAndroid
  * https://github.com/anseki/jquery-overflow-android
  *
+ * OverflowAndroid
+ * https://github.com/anseki/overflow-android
+ *
  * Copyright (c) 2014 anseki
  * Licensed under the MIT license.
  */
