@@ -1,16 +1,19 @@
 {
   "name": "overflowandroid",
   "title": "overflowAndroid",
-  "description": "The polyfill for `overflow:scroll` / `overflow:auto` and `element.scrollLeft` / `element.scrollTop` on Android browser.",
+  "description": "Implement the inertia scroll for `overflow` element. And the polyfill for `overflow:scroll` / `overflow:auto` and `element.scrollLeft` / `element.scrollTop` on Android browser.",
   "keywords": [
-    "android",
-    "polyfill",
+    "inertia",
+    "inertial",
     "overflow",
     "scroll",
     "scrollLeft",
-    "scrollTop"
+    "scrollTop",
+    "android",
+    "desktop",
+    "polyfill"
   ],
-  "version": "0.4.10",
+  "version": "0.6.1",
   "author": {
     "name": "anseki",
     "url": "https://github.com/anseki"
