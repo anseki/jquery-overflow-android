@@ -41,6 +41,7 @@ element.data('overflowAndroid').scrollLeft(100);
 **See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
 
 ## History
+ * 2014-10-09			v0.6.2			Include OverflowAndroid v0.6.2.
  * 2014-10-06			v0.6.1			Include OverflowAndroid v0.6.1.
  * 2014-09-26			v0.4.10			Include OverflowAndroid v0.4.10.
  * 2014-09-23			v0.4.9			Include OverflowAndroid v0.4.9.
