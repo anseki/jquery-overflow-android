@@ -41,23 +41,6 @@ element.data('overflowAndroid').scrollLeft(100);
 **See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
 
 ## History
+ * 2014-11-03			v0.7.3			Include OverflowAndroid v0.7.3.
  * 2014-10-31			v0.7.2			Include OverflowAndroid v0.7.2.
  * 2014-10-09			v0.7.0			Include OverflowAndroid v0.7.0.
- * 2014-10-09			v0.6.2			Include OverflowAndroid v0.6.2.
- * 2014-10-06			v0.6.1			Include OverflowAndroid v0.6.1.
- * 2014-09-26			v0.4.10			Include OverflowAndroid v0.4.10.
- * 2014-09-23			v0.4.9			Include OverflowAndroid v0.4.9.
- * 2014-09-22			v0.4.8			Include OverflowAndroid v0.4.8.
- * 2014-09-22			v0.4.7			Include OverflowAndroid v0.4.7.
- * 2014-09-22			v0.4.6			Include OverflowAndroid v0.4.6.
- * 2014-09-22			v0.4.5			Include OverflowAndroid v0.4.5.
- * 2014-09-09			v0.4.3			Include OverflowAndroid v0.4.3.
- * 2014-09-09			v0.4.2			Include OverflowAndroid v0.4.2.
- * 2014-09-07			v0.3.1			Include OverflowAndroid v0.3.1.
- * 2014-09-06			v0.3.0			Include OverflowAndroid v0.3.0.
- * 2014-09-05			v0.2.2			Include OverflowAndroid v0.2.2.
- * 2014-09-05			v0.2.1			Include OverflowAndroid v0.2.1.
- * 2014-09-05			v0.2.0			Update package.json for OverflowAndroid v0.2.0.
- * 2014-09-05			v0.1.2			Update package.json for OverflowAndroid v0.1.2.
- * 2014-08-31			v0.1.1			Update package.json for OverflowAndroid v0.1.1.
- * 2014-08-30			v0.1.0			Initial release.
