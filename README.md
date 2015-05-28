@@ -39,12 +39,3 @@ element.animate({scrollLeft: 360, scrollTop: 150}, 1200);
 element.data('overflowAndroid').scrollLeft(100);
 ```
 **See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
-
-## History
- * 2014-11-16			v0.7.7			Include OverflowAndroid v0.7.7.
- * 2014-11-15			v0.7.6			Include OverflowAndroid v0.7.6.
- * 2014-11-13			v0.7.5			Include OverflowAndroid v0.7.5.
- * 2014-11-11			v0.7.4			Include OverflowAndroid v0.7.4.
- * 2014-11-03			v0.7.3			Include OverflowAndroid v0.7.3.
- * 2014-10-31			v0.7.2			Include OverflowAndroid v0.7.2.
- * 2014-10-09			v0.7.0			Include OverflowAndroid v0.7.0.
