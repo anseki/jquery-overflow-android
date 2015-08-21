@@ -10,7 +10,7 @@ Android browser has problems as below:
 
 OverflowAndroid solves above problems both.
 
-**See <a href="http://anseki.github.io/overflow-android">DEMO and more informations</a>**
+**See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
 
 ## Usage
 [Hammer.js](http://hammerjs.github.io/) is required.
