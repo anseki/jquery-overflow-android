@@ -1,6 +1,6 @@
 # jQuery.overflowAndroid
 
-The jQuery plugin that is wrapper of [OverflowAndroid](http://anseki.github.io/overflow-android).  
+The jQuery plugin that is wrapper of [OverflowAndroid](http://anseki.github.io/overflow-android/).  
 The polyfill for `overflow:scroll` / `overflow:auto` and `element.scrollLeft` / `element.scrollTop` on Android browser.
 
 Android browser has problems as below:
@@ -10,7 +10,7 @@ Android browser has problems as below:
 
 OverflowAndroid solves above problems both.
 
-**See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
+**See <a href="http://anseki.github.io/overflow-android/">DEMO and more information</a>**
 
 ## Usage
 [Hammer.js](http://hammerjs.github.io/) is required.
@@ -38,4 +38,4 @@ element.animate({scrollLeft: 360, scrollTop: 150}, 1200);
 // OverflowAndroid instance can be got via data('overflowAndroid') method.
 element.data('overflowAndroid').scrollLeft(100);
 ```
-**See <a href="http://anseki.github.io/overflow-android">DEMO and more information</a>**
+**See <a href="http://anseki.github.io/overflow-android/">DEMO and more information</a>**
