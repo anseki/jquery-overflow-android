@@ -3,6 +3,8 @@
 The jQuery plugin that is wrapper of [OverflowAndroid](http://anseki.github.io/overflow-android/).  
 The polyfill for `overflow:scroll` / `overflow:auto` and `element.scrollLeft` / `element.scrollTop` on Android browser.
 
+[![ss-01](ss-01.gif)](http://anseki.github.io/overflow-android/)
+
 Android browser has problems as below:
 
 - `overflow:scroll` and `overflow:auto` don't work on Android 2.x. The elements don't accept scroll operations (swipe, flick, drag, etc.).
