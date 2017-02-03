@@ -3,7 +3,7 @@
  * https://github.com/anseki/jquery-overflow-android
  *
  * OverflowAndroid
- * https://github.com/anseki/overflow-android
+ * https://anseki.github.io/overflow-android/
  *
  * Copyright (c) 2016 anseki
  * Licensed under the MIT license.
