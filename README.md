@@ -1,6 +1,6 @@
 # jQuery.overflowAndroid
 
-[![npm](https://img.shields.io/npm/v/jquery-overflowandroid.svg)](https://www.npmjs.com/package/jquery-overflowandroid) [![GitHub issues](https://img.shields.io/github/issues/anseki/jquery-overflow-android.svg)](https://github.com/anseki/jquery-overflow-android/issues) [![David](https://img.shields.io/david/anseki/jquery-overflow-android.svg)](package.json) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE-MIT)
+[![npm](https://img.shields.io/npm/v/jquery-overflowandroid.svg)](https://www.npmjs.com/package/jquery-overflowandroid) [![GitHub issues](https://img.shields.io/github/issues/anseki/jquery-overflow-android.svg)](https://github.com/anseki/jquery-overflow-android/issues) [![David](https://img.shields.io/david/anseki/jquery-overflow-android.svg)](package.json) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 The jQuery plugin that is wrapper of [OverflowAndroid](https://anseki.github.io/overflow-android/).  
 The polyfill for `overflow:scroll` / `overflow:auto` and `element.scrollLeft` / `element.scrollTop` on Android browser.
